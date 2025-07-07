@@ -1,4 +1,3 @@
-package hahahah;
 import java.util.Scanner;
 public class MobileRecharge 
 {
