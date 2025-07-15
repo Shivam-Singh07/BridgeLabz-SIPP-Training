@@ -9,7 +9,7 @@ class Item {
     double price;
     Item next;
 
-    public Item(String, int id, int quantity, double price) {
+    public Item(String , int id, int quantity, double price) {
         this.name = name;
         this.id = id;
         this.quantity = quantity;

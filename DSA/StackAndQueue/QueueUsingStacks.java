@@ -1,4 +1,3 @@
-package StackAndQueue;
 import java.util.Stack;
 
 public class QueueUsingStacks {
